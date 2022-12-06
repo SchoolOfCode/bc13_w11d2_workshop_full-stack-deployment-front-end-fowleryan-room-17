@@ -1,7 +1,11 @@
 .tickedItem {
-  text-decoration: line-through;
+	text-decoration: line-through;
+}
+
+.tickedItem:hover {
+	cursor: pointer;
 }
 
 .untickedItem {
-  font-weight: bold;
+	font-weight: bold;
 }
