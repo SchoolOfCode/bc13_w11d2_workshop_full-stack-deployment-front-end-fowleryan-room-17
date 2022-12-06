@@ -2,7 +2,8 @@
 	text-decoration: line-through;
 }
 
-.tickedItem:hover {
+.tickedItem:hover,
+.untickedItem:hover {
 	cursor: pointer;
 }
 
